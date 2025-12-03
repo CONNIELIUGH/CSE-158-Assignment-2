@@ -1,0 +1,6 @@
+*.Identifier
+*.json
+*.gz
+.ipynb_checkpoints
+.git
+
